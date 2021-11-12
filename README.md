@@ -4,8 +4,8 @@ Based on the design patterns outlined by Luke Wroblewski's [article](https://www
 
 See https://www.lukew.com/ff/entry.asp?1514
 
-- [Mostly Fluid](/Homework-layouts/mostly-fluid)
-- [Column Drop](/Homework-layouts/column-drop)
+- [Mostly Fluid](/Homework-layouts/mostly-fluid/)
+- [Column Drop](/Homework-layouts/column-drop/)
 - [Layout Shifter](/multi-device-layout-patterns/layout-shifter)
 
 ## Screenshots
