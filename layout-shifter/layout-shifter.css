@@ -46,36 +46,7 @@ main + aside {
 }
 
 @media screen and (min-width: 1024px) {
- .main-wrapper {
-		display: flex;
-		flex-wrap: wrap;
-		align-self: stretch;
-		align: right;
-		width: 75%;
-	}
-	
-	.wrapper {
-		display: flex;
-		flex-wrap: wrap;
-		align-self: stretch;
-		align: left;
-		max-width: 1024px;
-		margin: 0 auto; 
-	}
-	
-	aside {
-		align-self: stretch;
-		width: 25%;
-		align: left;
-	}
-	
-	main + aside {
-		width: 100%;
-	}
-	
-	main {
-		width: 100%;
-	}
+ /* Add Desktop Content Here */
 }
 
 @media screen and (min-width: 1200px) {
