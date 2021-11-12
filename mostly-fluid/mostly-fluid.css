@@ -43,6 +43,20 @@ aside + aside {
 
 @media screen and (min-width: 768px) {
     /* Add Tablet Content Here */
+    .wrapper {
+		max-width: 100%;
+		margin-left: 100px;
+		margin-right: 100px;
+		position: center;
+		display: flex;
+		flex-wrap: wrap;
+	}
+	main {
+		width: 100%;
+	}
+	aside {
+		width: 50%;
+	}
 }
 
 @media screen and (min-width: 1024px) {
@@ -52,4 +66,3 @@ aside + aside {
 @media screen and (min-width: 1200px) {
     /* Add Desktop Content Here */
 }
-
