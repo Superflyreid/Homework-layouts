@@ -40,15 +40,46 @@ aside {
 aside + aside {
     background-color: var(--greenLight);  
 }
-
 @media screen and (min-width: 768px) {
-  /* Add Desktop Content Here */
+	.wrapper {
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
 	}
-
+	
+	aside {
+		width: 25%;
+		order: 1;
+	}
+	
+	aside + aside {
+		width: 100%;
+		order: 3;
+	}
+	main {
+		width: 75%;
+		order: 2;
+	}
 }
 
 @media screen and (min-width: 1024px) {
-	  /* Add Desktop Content Here */
+	.wrapper {
+		display: flex;
+		flex-direction: row;
+	}
+	
+	aside {
+		width: 25%;
+		order: 1;
+	}
+	
+	aside + aside {
+		width: 25%;
+		order: 3;
+	}
+	main {
+		width: 50%;
+		order: 2;
 	}
 	
 @media screen and (min-width: 1200px) {
