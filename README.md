@@ -6,7 +6,7 @@ See https://www.lukew.com/ff/entry.asp?1514
 
 - [Mostly Fluid](/Homework-layouts/mostly-fluid/)
 - [Column Drop](/Homework-layouts/column-drop/)
-- [Layout Shifter](/multi-device-layout-patterns/layout-shifter)
+- [Layout Shifter](/Homework-layouts/layout-shifter/)
 
 ## Screenshots
 
